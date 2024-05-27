@@ -1,3 +1,3 @@
 # Thanking-doctor-website
-http://bcemart.me/Thanking-doctor-website/ <br>
+https://sanjeevbcep.github.io/Thanking-doctor-website/ <br>
  http://sanjeev.digital/
